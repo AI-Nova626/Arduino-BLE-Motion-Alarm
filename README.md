@@ -146,7 +146,7 @@ The Arduino communicates with the Android application through the HC-05 Bluetoot
 
 ---
 
-## 📱 Android Application Features
+## 📱 Android Application Features(Go to releses, then go to Arduino_Projects tag, then download the apk)
 
 - Bluetooth device connection.
 - Live motion detection status.
@@ -169,18 +169,6 @@ The Arduino communicates with the Android application through the HC-05 Bluetoot
 - Garage and storage-room protection.
 - Personal workspace monitoring.
 - DIY smart security projects.
-
----
-
-## 🚀 Future Improvements
-
-- Custom alarm sound selection.
-- Motion detection history with timestamps.
-- Automatic Bluetooth reconnection.
-- Adjustable alarm volume.
-- Advanced security settings.
-- Battery backup support.
-- Multiple PIR sensor support.
 
 ---
 
