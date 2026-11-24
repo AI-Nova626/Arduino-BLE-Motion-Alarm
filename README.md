@@ -146,7 +146,7 @@ The Arduino communicates with the Android application through the HC-05 Bluetoot
 
 ---
 
-## 📱 Android Application Features(Go to releses, then go to Arduino_Projects tag, then download the apk)
+## 📱 Android Application Features(Go to releases, then go to Arduino_Projects tag, then download the apk)
 
 - Bluetooth device connection.
 - Live motion detection status.
