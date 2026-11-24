@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart PIR Security</string>
+    <string name="dashboard_tab">Dashboard</string>
+    <string name="history_tab">History</string>
+    <string name="settings_tab">Settings</string>
+    <string name="hardware_guide_tab">Hardware</string>
+    <string name="status_security_armed">Security Armed</string>
+    <string name="status_security_disarmed">Security Disarmed</string>
+    <string name="warning_motion_detected">WARNING! MOTION DETECTED</string>
+    <string name="status_alarm_stopped">ALARM STOPPED</string>
+    <string name="status_system_ready">SYSTEM READY</string>
+    <string name="status_no_motion">AREA SECURE • NO MOTION</string>
+    <string name="btn_connect">CONNECT</string>
+    <string name="btn_disconnect">DISCONNECT</string>
+    <string name="btn_reconnect">RECONNECT</string>
+    <string name="btn_arm_system">ARM SYSTEM</string>
+    <string name="btn_disarm_system">DISARM SYSTEM</string>
+    <string name="btn_stop_alarm">STOP ALARM</string>
+    <string name="notification_alert_title">Security Alert</string>
+    <string name="notification_alert_body">Motion detected by your PIR security sensor!</string>
+    <string name="notification_monitor_title">Smart PIR Security Active</string>
+    <string name="notification_clear_history_confirm">Clear all recorded motion history events? This action cannot be undone.</string>
+</resources>
