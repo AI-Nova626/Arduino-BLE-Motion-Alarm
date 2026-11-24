@@ -1,6 +1,0 @@
-{
-  "name": "Smart PIR Security",
-  "description": "Native Android Bluetooth Classic (HC-05 SPP) security alarm and motion telemetry dashboard for Arduino UNO PIR motion sensors with continuous background foreground alarm and Room history logging.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
